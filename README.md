@@ -20,7 +20,7 @@ This is a boilerplate for creating a README file for a GitHub repository. It pro
 <br>
 Example Image
 <br><br>
-<img src="https://github.com/miles-advani/repo-readme-boilerplate/tree/main/images" alt="Example Project Image">
+<img src="https://github.com/miles-advani/repo-readme-boilerplate/blob/main/images/example-image.png">
 </details>
 
 1. **About Me**: This section provides a brief introduction and background information about the developer.
