@@ -57,8 +57,8 @@ to discuss what you would like to change.
 
 - **v1.0.0**: Initial release contains the following cheat sheets and templates:
 
-  - [README-TEMPLATE-V1](###README-Template)
-  - [README-TEMPLATE-V1](###README-Template)
+  - [MAC-SETUP](https://github.com/miles-advani/cheat-sheets-and-templates/blob/main/cheat-sheets/mac-os/MAC-SETUP.md)
+  - [README-TEMPLATE-V1](https://github.com/miles-advani/cheat-sheets-and-templates/blob/main/templates/README-TEMPLATE-V1.md)
 
   <BR>
 
