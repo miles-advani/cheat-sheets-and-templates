@@ -1,5 +1,7 @@
 # README Boilerplate
 
+![Logo](https://github.com/miles-advani/repo-readme-boilerplate/logo/logo.svg)
+
 ## Table of Contents
 
 1. [Description](#description)
@@ -69,7 +71,7 @@ npm run dev
 
 ## Usage
 
-- Explain how to use the project or software, including any commands or scripts for running it. This section can also include examples of the project in action.
+Explain how to use the project or software, including any commands or scripts for running it. This section can also include examples of the project in action.
 
 ## Features
 
@@ -79,12 +81,12 @@ Detail the key features and functionalities of the project. This helps developer
 
 If the project is complex, include a link to more detailed technical documentation or create a section that dives deeper into the architecture, design decisions, and more intricate details of the project.
 
-### Basic Structure
+### File Structure
 
 This file structure is an example based on [My Portfolio](https://github.com/miles-advani/Portfolio).
 
 <details>
-<summary>File Structure</summary>
+<summary>Basic Structure</summary>
 <br>
 
 <br>
