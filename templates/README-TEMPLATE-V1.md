@@ -4,9 +4,11 @@
 
 (Include your svg logo here)
 
-# README Boilerplate
+# README Template V1
 
 <!-- Badges=============================== -->
+
+(Include your badges here)
 
 ![Version](https://img.shields.io/github/package-json/v/miles-advani/repo-readme-boilerplate)
 ![Build Status](https://img.shields.io/github/workflow/status/miles-advani/repo-readme-boilerplate/CI)
