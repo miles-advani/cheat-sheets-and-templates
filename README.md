@@ -4,6 +4,9 @@
 
 # README Boilerplate
 
+![Build Status](https://img.shields.io/github/workflow/status/miles-advani/repo-readme-boilerplate/CI)
+![Coverage](https://img.shields.io/codecov/c/github/miles-advani/repo-readme-boilerplate)
+
 ## Table of Contents
 
 1. [Description](#description)
@@ -29,7 +32,12 @@ Example Image
 
 <br>
 
-<details> <summary>Tech Stack</summary> <br> Markdown, HTML, blabla </details>
+<details> <summary>Tech Stack</summary> 
+<br> 
+- Markdown
+- HTML 
+- blabla 
+</details>
 
 <br>
 
@@ -46,6 +54,11 @@ Example Image
 Instructions on how to clone and set up the project locally. This section is crucial for getting developers started with the project.
 
 - Example:
+
+Before you begin, ensure you have met the following requirements:
+
+- You have installed Node.js and npm
+- You have a `<specific OS>` operating system
 
 1. Clone the repository:
 
@@ -75,9 +88,21 @@ npm run dev
 
 Explain how to use the project or software, including any commands or scripts for running it. This section can also include examples of the project in action.
 
+<details>
+<summary>Preview Image</summary>
+<br>
+Example Image
+<br><br>
+<img src="https://github.com/miles-advani/repo-readme-boilerplate/blob/main/images/example-image.png">
+</details>
+
 ## Features
 
 Detail the key features and functionalities of the project. This helps developers understand what the project can do.
+
+- Feature 1: Description
+- Feature 2: Description
+- Feature 3: Description
 
 ## Technical Documentation
 
@@ -177,6 +202,8 @@ to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
 
+For detailed guidelines, see [CONTRIBUTING.md](path/to/CONTRIBUTING.md).
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/your-account-name/your-repo-name?tab=MIT-1-ov-file)
@@ -185,7 +212,8 @@ This project is licensed under the MIT License - see the [LICENSE.md](https://gi
 
 Keep a record of all the changes made to the project over time. This is useful for developers to track progress and updates.
 
-- Added a new feature...
-- Fixed a bug...
+- **v1.0.0**: Initial release with features A, B, and C.
+- **v1.1.0**: Added feature D.
+- **v1.1.1**: Fixed bug in feature B.
 
 [Back to Top](#readme-boilerplate)
