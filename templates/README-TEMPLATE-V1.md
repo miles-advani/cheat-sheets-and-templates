@@ -1,8 +1,8 @@
 <!-- Logo=============================== -->
 
-![Logo](https://github.com/miles-advani/cheat-sheets-and-templates/blob/main/assets/logos/ma-dev-logo.svg)
-
 (Include your svg logo here)
+
+![Logo](https://github.com/miles-advani/cheat-sheets-and-templates/blob/main/assets/logos/ma-dev-logo.svg)
 
 # README Template V1
 
