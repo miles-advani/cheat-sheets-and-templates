@@ -1,11 +1,24 @@
+<!-- Logo=============================== -->
+
 ![Logo](https://github.com/miles-advani/repo-readme-boilerplate/blob/main/logo/logo.svg)
 
 (Include your svg logo here)
 
 # README Boilerplate
 
+<!-- Badges=============================== -->
+
+![Version](https://img.shields.io/github/package-json/v/miles-advani/repo-readme-boilerplate)
 ![Build Status](https://img.shields.io/github/workflow/status/miles-advani/repo-readme-boilerplate/CI)
 ![Coverage](https://img.shields.io/codecov/c/github/miles-advani/repo-readme-boilerplate)
+![Stars](https://img.shields.io/github/stars/miles-advani/repo-readme-boilerplate?style=social)
+![Pull Requests](https://img.shields.io/github/issues-pr/miles-advani/repo-readme-boilerplate)
+![Forks](https://img.shields.io/github/forks/miles-advani/repo-readme-boilerplate?style=social)
+![Issues](https://img.shields.io/github/issues/miles-advani/repo-readme-boilerplate)
+![Downloads](https://img.shields.io/github/downloads/miles-advani/repo-readme-boilerplate/total)
+![License](https://img.shields.io/github/license/miles-advani/repo-readme-boilerplate)
+
+<!-- Index=============================== -->
 
 ## Table of Contents
 
