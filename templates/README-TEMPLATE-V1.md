@@ -1,6 +1,6 @@
 <!-- Logo=============================== -->
 
-![Logo](https://github.com/miles-advani/repo-readme-boilerplate/blob/main/logo/logo.svg)
+![Logo](https://github.com/miles-advani/cheat-sheets-and-templates/blob/main/assets/logos/ma-dev-logo.svg)
 
 (Include your svg logo here)
 
@@ -40,7 +40,7 @@ This is a boilerplate for creating a README file for a GitHub repository. It pro
 <br>
 Example Image
 <br><br>
-<img src="https://github.com/miles-advani/repo-readme-boilerplate/blob/main/images/example-image.png">
+<img src="https://github.com/miles-advani/cheat-sheets-and-templates/blob/main/assets/images/example-image.png">
 </details>
 
 <br>
@@ -110,7 +110,7 @@ Explain how to use the project or software, including any commands or scripts fo
 <br>
 Example Image
 <br><br>
-<img src="https://github.com/miles-advani/repo-readme-boilerplate/blob/main/images/example-image.png">
+<img src="https://github.com/miles-advani/cheat-sheets-and-templates/blob/main/assets/images/example-image.png">
 </details>
 
 ## Features

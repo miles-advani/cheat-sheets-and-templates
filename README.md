@@ -1,4 +1,4 @@
-![Logo](https://github.com/miles-advani/repo-readme-boilerplate/blob/main/logo/logo.svg)
+![Logo](https://github.com/miles-advani/cheat-sheets-and-templates/blob/main/assets/logos/ma-dev-logo.svg)
 
 # Cheat Sheets & Templates
 
@@ -38,17 +38,15 @@ cd cheat-sheets-and-templates
 
 ## Features
 
-### [Cheat Sheets](#cheat-sheets)
+### [Cheat Sheets](https://github.com/miles-advani/cheat-sheets-and-templates/tree/main/cheat-sheets)
 
-#### [Mac OS](#mac-os)
+#### [Mac OS](https://github.com/miles-advani/cheat-sheets-and-templates/tree/main/cheat-sheets/mac-os)
 
-- [MAC-SETUP](###Mac-OS-Cheat-Sheet)
+- [MAC-SETUP](https://github.com/miles-advani/cheat-sheets-and-templates/blob/main/cheat-sheets/mac-os/MAC-SETUP.md)
 
-### [Templates](#templates)
+### [Templates](https://github.com/miles-advani/cheat-sheets-and-templates/tree/main/templates)
 
-#### [README Templates](#readme-templates)
-
-- [README-TEMPLATE-V1](###README-Template)
+- [README-TEMPLATE-V1](https://github.com/miles-advani/cheat-sheets-and-templates/blob/main/templates/README-TEMPLATE-V1.md)
 
 ## Contributing
 
