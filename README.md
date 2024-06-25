@@ -47,9 +47,13 @@ Example Image
 
 <details> <summary>Tech Stack</summary> 
 <br> 
-- Markdown
-- HTML 
-- blabla 
+<ul>
+  <li>Markdown</li>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JavaScript</li>
+  <li>[Add other technologies used]</li>
+</ul>
 </details>
 
 <br>
