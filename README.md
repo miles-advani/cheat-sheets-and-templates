@@ -1,5 +1,7 @@
 ![Logo](https://github.com/miles-advani/repo-readme-boilerplate/blob/main/logo/logo.svg)
 
+(Include your svg logo here)
+
 # README Boilerplate
 
 ## Table of Contents
