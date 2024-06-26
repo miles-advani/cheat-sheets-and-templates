@@ -15,7 +15,7 @@ How to add a badge to your GitHub repository:
 <br><br>
 Badges are a great way to showcase the status of your project. They can be used to display information such as the version, build status, coverage, stars, pull requests, forks, issues, downloads, and license.
 
-- Generate Badge on Shields.io: Visit Shields.io and find the badge you want to create. Shields.io allows you to customize badges for version, build status, coverage, and more.
+- Generate Badge on Shields.io: Visit [Shields.io](https://shields.io/) and find the badge you want to create. Shields.io allows you to customize badges for version, build status, coverage, and more.
 
 - Customize Your Badge: Follow the instructions on Shields.io to customize your badge. This usually involves selecting options from a form or modifying a URL to reflect your specific data (like your GitHub username and repository name).
 
