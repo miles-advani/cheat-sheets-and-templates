@@ -227,6 +227,23 @@ For detailed guidelines, see [CONTRIBUTING.md](path/to/CONTRIBUTING.md).
 
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/your-account-name/your-repo-name?tab=MIT-1-ov-file)
 
+- Navigate to Your Repository: Open your GitHub repository where you want to add the license.
+
+- Click on Add file: Click on the Add file dropdown and select Create new file.
+<details>
+<summary>Preview Image</summary>
+<br>
+Example Image
+<br><br>
+<img src="https://github.com/miles-advani/cheat-sheets-and-templates/blob/main/assets/images/example-image.png">
+</details><br>
+
+- Name the file: In the text field, type LICENSE.
+
+- Choose a license template: Click on Choose a license template and select the license you want to add.
+
+- Preview the license: Click on Review and submit.
+
 ## Changelog
 
 Keep a record of all the changes made to the project over time. This is useful for developers to track progress and updates.
