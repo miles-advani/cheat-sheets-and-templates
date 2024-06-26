@@ -225,7 +225,11 @@ For detailed guidelines, see [CONTRIBUTING.md](path/to/CONTRIBUTING.md).
 
 ## License
 
+Example:
+
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/your-account-name/your-repo-name?tab=MIT-1-ov-file)
+
+How to add a license to your GitHub repository:
 
 - Navigate to Your Repository: Open your GitHub repository where you want to add the license.
 
