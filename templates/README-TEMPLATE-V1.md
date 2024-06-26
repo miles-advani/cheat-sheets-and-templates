@@ -254,10 +254,9 @@ For detailed guidelines, see [CONTRIBUTING.md](path/to/CONTRIBUTING.md).
 
 - Click on Add file: Click on the Add file dropdown and select Create new file.
 <details>
-<summary>Preview Image</summary>
+<summary>Preview Image (Add file)</summary>
 <br>
-Example Image
-<br><br>
+
 <img src="https://github.com/miles-advani/cheat-sheets-and-templates/blob/main/assets/images/add-a-license.png">
 </details>
 
