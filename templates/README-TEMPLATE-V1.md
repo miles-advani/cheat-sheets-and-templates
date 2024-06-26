@@ -1,6 +1,14 @@
 <!-- Logo=============================== -->
 
-(Include your svg logo here and link it to your website or GitHub profile)
+<details>
+<summary>How to create a logo for your GitHub repository:</summary>
+<br>
+
+Logos are a great way to brand your GitHub repository. They can be used to showcase your personal brand, company, or project. You can create a logo using a graphic design tool like Adobe Illustrator, Figma, or Sketch. Once you have created your logo, you can export it as an SVG file and add it to your GitHub repository.
+
+- With Figma: Visit [Figma](https://www.figma.com/) and create a new file. Design your logo using shapes, text, and colors. Once you are happy with your design, export it as an SVG file (Select your Logo with the mouse, right-click, and select copy as SVG). You can then add the SVG file to your GitHub repository.
+
+</details>
 
 [![Logo](https://github.com/miles-advani/cheat-sheets-and-templates/blob/main/assets/logos/ma-dev-logo.svg)](https://www.miles-advani.com/)
 
@@ -9,10 +17,9 @@
 <!-- Badges=============================== -->
 
 <details>
-<summary>(Include your badges here)</summary>
+<summary>How to add a badge to your GitHub repository:</summary>
 <br>
-How to add a badge to your GitHub repository:
-<br><br>
+
 Badges are a great way to showcase the status of your project. They can be used to display information such as the version, build status, coverage, stars, pull requests, forks, issues, downloads, and license.
 
 - Generate Badge on Shields.io: Visit [Shields.io](https://shields.io/) and find the badge you want to create. Shields.io allows you to customize badges for version, build status, coverage, and more.
@@ -49,7 +56,7 @@ Badges are a great way to showcase the status of your project. They can be used 
 
 ## Description
 
-This is a boilerplate for creating a README file for a GitHub repository. It provides a structured format with sections that can be customized to suit the needs of the project.
+This is a template for creating a README file for a GitHub repository. It provides a structured format with sections that can be customized to suit the needs of the project. Additionally it includes instructions on how to add a logo, badges, and a license to the repository.
 
 <details>
 <summary>Preview Image</summary>
@@ -239,11 +246,9 @@ For detailed guidelines, see [CONTRIBUTING.md](path/to/CONTRIBUTING.md).
 
 ## License
 
-Example:
-
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/your-account-name/your-repo-name?tab=MIT-1-ov-file)
-
-How to add a license to your GitHub repository:
+<details>
+<summary>How to add a license to your GitHub repository:</summary>
+<br>
 
 - Navigate to Your Repository: Open your GitHub repository where you want to add the license.
 
@@ -261,6 +266,11 @@ Example Image
 - Choose a license template: Click on Choose a license template and select the license you want to add.
 
 - Preview the license: Click on Review and submit.
+</details><br>
+
+Example:
+
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/your-account-name/your-repo-name?tab=MIT-1-ov-file)
 
 ## Changelog
 
