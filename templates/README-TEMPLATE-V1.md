@@ -235,7 +235,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](https://gi
 <br>
 Example Image
 <br><br>
-<img src="https://github.com/miles-advani/cheat-sheets-and-templates/blob/main/assets/images/example-image.png">
+<img src="https://github.com/miles-advani/cheat-sheets-and-templates/blob/main/assets/images/add-a-license.png">
 </details><br>
 
 - Name the file: In the text field, type LICENSE.
