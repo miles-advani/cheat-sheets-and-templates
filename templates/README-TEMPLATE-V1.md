@@ -8,7 +8,23 @@
 
 <!-- Badges=============================== -->
 
-(Include your badges here)
+<details>
+<summary>(Include your badges here)</summary>
+<br>
+Example Image
+<br><br>
+Badges are a great way to showcase the status of your project. They can be used to display information such as the version, build status, coverage, stars, pull requests, forks, issues, downloads, and license.
+
+How to add a badge to your GitHub repository:
+
+- Generate Badge on Shields.io: Visit Shields.io and find the badge you want to create. Shields.io allows you to customize badges for version, build status, coverage, and more.
+
+- Customize Your Badge: Follow the instructions on Shields.io to customize your badge. This usually involves selecting options from a form or modifying a URL to reflect your specific data (like your GitHub username and repository name).
+
+- Copy the Badge Markdown Code: Once your badge is customized, Shields.io will provide you with Markdown code. Copy this code.
+
+- Paste the Badge in Your README File: Open your README.md file in your GitHub repository and paste the copied Markdown code at the desired location in the file.
+</details>
 
 ![Version](https://img.shields.io/github/package-json/v/miles-advani/repo-readme-boilerplate)
 ![Build Status](https://img.shields.io/github/workflow/status/miles-advani/repo-readme-boilerplate/CI)
