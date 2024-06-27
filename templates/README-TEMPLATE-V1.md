@@ -148,7 +148,7 @@ Detail the key features and functionalities of the project. This helps developer
 
 If the project is complex, include a link to more detailed technical documentation or create a section that dives deeper into the architecture, design decisions, and more intricate details of the project.
 
-Read more about the technical details in the [Technical Documentation](path/to/TECHNICAL-DOCUMENTATION.md).
+Read more about the technical details in the [Technical Documentation](https://github.com/miles-advani/cheat-sheets-and-templates/blob/main/templates/FILE-STRUCTURE-TEMPLATE-V1.md).
 
 ## Contributing
 
@@ -157,7 +157,7 @@ to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
 
-For detailed guidelines, see [CONTRIBUTING.md](path/to/CONTRIBUTING.md).
+For detailed guidelines, see [CONTRIBUTING.md](https://github.com/miles-advani/cheat-sheets-and-templates/blob/main/templates/CONTRIBUTING-TEMPLATE.md).
 
 ## License
 
