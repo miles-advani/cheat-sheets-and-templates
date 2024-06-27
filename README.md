@@ -44,6 +44,10 @@ cd cheat-sheets-and-templates
 
 - [MAC-SETUP](https://github.com/miles-advani/cheat-sheets-and-templates/blob/main/cheat-sheets/mac-os/MAC-SETUP.md)
 
+#### [Ubuntu](https://github.com/miles-advani/cheat-sheets-and-templates/tree/main/cheat-sheets/ubuntu)
+
+- [UBUNTU-SETUP](https://github.com/miles-advani/cheat-sheets-and-templates/blob/main/cheat-sheets/ubuntu/UBUNTU-SETUP.md)
+
 ### [Templates](https://github.com/miles-advani/cheat-sheets-and-templates/tree/main/templates)
 
 - [README-TEMPLATE-V1](https://github.com/miles-advani/cheat-sheets-and-templates/blob/main/templates/README-TEMPLATE-V1.md)

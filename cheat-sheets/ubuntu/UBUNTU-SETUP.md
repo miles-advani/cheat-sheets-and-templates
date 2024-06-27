@@ -172,13 +172,15 @@ Replace `1.31.0` with the latest version number if necessary.
 sudo snap install postman
 ```
 
-## Obsidian
+## Random Tools
+
+### Obsidian
 
 ```sh
 sudo snap install obsidian
 ```
 
-## Albert
+### Albert
 
 Raycast is not available for Linux, but Albert is a good alternative:
 
@@ -186,7 +188,7 @@ Raycast is not available for Linux, but Albert is a good alternative:
 sudo apt install albert
 ```
 
-## GIMP
+### GIMP
 
 ```sh
 sudo apt install gimp
