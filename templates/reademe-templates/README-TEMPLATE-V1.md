@@ -1,5 +1,4 @@
-<!-- Logo=============================== -->
-
+<!-- ↓↓↓↓↓ Delete everything between this comment and the NEXT COMMENT ↓↓↓↓↓ -->
 <details>
 <summary>How to create a logo for your GitHub repository:</summary>
 <br>
@@ -9,13 +8,13 @@ Logos are a great way to brand your GitHub repository. They can be used to showc
 - With Figma: Visit [Figma](https://www.figma.com/) and create a new file. Design your logo using shapes, text, and colors. Once you are happy with your design, export it as an SVG file (Select your Logo with the mouse, right-click, and select copy as SVG). You can then add the SVG file to your GitHub repository.
 
 </details>
+<!-- ↑↑↑↑↑ Delete everything between this comment and the COMMENT ABOVE ↑↑↑↑↑ -->
 
 [![Logo](https://github.com/miles-advani/cheat-sheets-and-templates/blob/main/assets/logos/ma-dev-logo.svg)](https://www.miles-advani.com/)
 
 # README Template V1
 
-<!-- Badges=============================== -->
-
+<!-- ↓↓↓↓↓ Delete everything between this comment and the NEXT COMMENT ↓↓↓↓↓ -->
 <details>
 <summary>How to add a badge to your GitHub repository:</summary>
 <br>
@@ -30,6 +29,7 @@ Badges are a great way to showcase the status of your project. They can be used 
 
 - Paste the Badge in Your README File: Open your README.md file in your GitHub repository and paste the copied Markdown code at the desired location in the file.
 </details>
+<!-- ↑↑↑↑↑ Delete everything between this comment and the COMMENT ABOVE ↑↑↑↑↑ -->
 
 ![Version](https://img.shields.io/github/package-json/v/miles-advani/repo-readme-boilerplate)
 ![Build Status](https://img.shields.io/github/workflow/status/miles-advani/repo-readme-boilerplate/CI)
@@ -40,8 +40,6 @@ Badges are a great way to showcase the status of your project. They can be used 
 ![Issues](https://img.shields.io/github/issues/miles-advani/repo-readme-boilerplate)
 ![Downloads](https://img.shields.io/github/downloads/miles-advani/repo-readme-boilerplate/total)
 ![License](https://img.shields.io/github/license/miles-advani/repo-readme-boilerplate)
-
-<!-- Index=============================== -->
 
 ## Table of Contents
 
@@ -81,6 +79,7 @@ Example Image
 
 <br>
 
+<!-- ↓↓↓↓↓ Delete everything between this comment and the NEXT COMMENT ↓↓↓↓↓ -->
 <details> <summary>How do I dropdown?</summary> <br> This is how you dropdown. <br><br> <pre> &lt;details&gt; &lt;summary&gt;How do I dropdown?&lt;&#47;summary&gt; &lt;br&gt; This is how you dropdown. &lt;&#47;details&gt; </pre>
 
 <br>
@@ -88,6 +87,7 @@ Example Image
 <details> <summary>How do I dropdown with a Image?</summary> <br> This is how you dropdown with a Image. <br><br> < img bla bla ... /> </details>
 
 </details>
+<!-- ↑↑↑↑↑ Delete everything between this comment and the COMMENT ABOVE ↑↑↑↑↑ -->
 
 ## Installation
 
@@ -148,7 +148,7 @@ Detail the key features and functionalities of the project. This helps developer
 
 If the project is complex, include a link to more detailed technical documentation or create a section that dives deeper into the architecture, design decisions, and more intricate details of the project.
 
-Read more about the technical details in the [Technical Documentation](https://github.com/miles-advani/cheat-sheets-and-templates/blob/main/templates/FILE-STRUCTURE-TEMPLATE-V1.md).
+Read more about the technical details in the [Technical Documentation](https://github.com/miles-advani/cheat-sheets-and-templates/blob/main/templates/TECHNICAL-DOCUMENTATION-TEMPLATE-V1.md).
 
 ## Contributing
 
@@ -161,6 +161,7 @@ For detailed guidelines, see [CONTRIBUTING.md](https://github.com/miles-advani/c
 
 ## License
 
+<!-- ↓↓↓↓↓ Delete everything between this comment and the NEXT COMMENT ↓↓↓↓↓ -->
 <details>
 <summary>How to add a license to your GitHub repository:</summary>
 <br>
@@ -182,9 +183,10 @@ For detailed guidelines, see [CONTRIBUTING.md](https://github.com/miles-advani/c
 - Preview the license: Click on Review and submit.
 </details><br>
 
-Example:
+Example based on my [Portfolio](https://github.com/miles-advani/Portfolio):
+<!-- ↑↑↑↑↑ Delete everything between this comment and the COMMENT ABOVE ↑↑↑↑↑ -->
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/your-account-name/your-repo-name?tab=MIT-1-ov-file)
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/miles-advani/Portfolio/blob/main/LICENSE)
 
 ## Changelog
 
