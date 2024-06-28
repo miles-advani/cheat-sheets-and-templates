@@ -41,13 +41,13 @@ I'm "your name", a "your job" from "your city", "your country".
 
 <br>
 
-<!-- <table>
+<table>
     <tr>
         <td align="center" width="25" style="background-color:white;"><a href="YOUR_WEBSITE_URL"><img align="center" alt="miles-advani.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a></td>
         <td align="center" width="25" style="background-color:white;"><a href="YOUR_LINKEDIN_PROFILE_URL"><img align="center" alt="Miles Advani | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" /></a></td>
         <td align="center" width="25" style="background-color:white;"><a href="YOUR_INSTAGRAM_PROFILE_URL"><img align="center" alt="Miles Advani | Instagram" width="22px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" /></a></td>
     </tr>
-</table> -->
+</table>
 
 <!-- <p align="left">
     <a href="YOUR_WEBSITE_URL"><img alt="miles-advani.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
@@ -55,11 +55,11 @@ I'm "your name", a "your job" from "your city", "your country".
     <a href="YOUR_INSTAGRAM_PROFILE_URL"><img alt="Miles Advani | Instagram" width="22px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" /></a>
 </p> -->
 
-<p align="left">
+<!-- <p align="left">
     <a href="YOUR_WEBSITE_URL"><img alt="miles-advani.com" width="22px" style="margin-right: 10px; background: white; padding: 2px;" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
     <a href="YOUR_LINKEDIN_PROFILE_URL"><img alt="Miles Advani | LinkedIn" width="22px" style="margin-right: 10px; background: white; padding: 2px;" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" /></a>
     <a href="YOUR_INSTAGRAM_PROFILE_URL"><img alt="Miles Advani | Instagram" width="22px" style="margin-right: 10px; background: white; padding: 2px;" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" /></a>
-</p>
+</p> -->
 
 <br>
 
