@@ -28,7 +28,7 @@ A profile README is a special repository that you can create on your GitHub acco
 </details>
 <!-- ↑↑↑↑↑ Delete everything between this comment and the COMMENT ABOVE ↑↑↑↑↑ -->
 
-# Hey there 👋
+### Hey there 👋
 
 I'm "your name", a "your job" from "your city", "your country".
 
@@ -39,26 +39,49 @@ I'm "your name", a "your job" from "your city", "your country".
 - 💬 Ask me about ...
 - ⚡ Fun fact: ...
 
-## Connect with me:
+<br>
 
-[<img align="left" alt="miles-advani.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Miles Advani | Twitter" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/twitter.svg" />][twitter]
-[<img align="left" alt="Miles Advani | LinkedIn" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/linkedin.svg" />][linkedin]
-[<img align="left" alt="Miles Advani | Instagram" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/instagram.svg" />][instagram]
+<!-- <table>
+    <tr>
+        <td align="center" width="25" style="background-color:white;"><a href="YOUR_WEBSITE_URL"><img align="center" alt="miles-advani.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a></td>
+        <td align="center" width="25" style="background-color:white;"><a href="YOUR_LINKEDIN_PROFILE_URL"><img align="center" alt="Miles Advani | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" /></a></td>
+        <td align="center" width="25" style="background-color:white;"><a href="YOUR_INSTAGRAM_PROFILE_URL"><img align="center" alt="Miles Advani | Instagram" width="22px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" /></a></td>
+    </tr>
+</table> -->
 
-<br><br><br><br><br><br><br><br><br><br>
+<!-- <p align="left">
+    <a href="YOUR_WEBSITE_URL"><img alt="miles-advani.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
+    <a href="YOUR_LINKEDIN_PROFILE_URL"><img alt="Miles Advani | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" /></a>
+    <a href="YOUR_INSTAGRAM_PROFILE_URL"><img alt="Miles Advani | Instagram" width="22px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" /></a>
+</p> -->
 
-## Tech Stack:
+<p align="left">
+    <a href="YOUR_WEBSITE_URL"><img alt="miles-advani.com" width="22px" style="margin-right: 10px; background: white; padding: 2px;" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
+    <a href="YOUR_LINKEDIN_PROFILE_URL"><img alt="Miles Advani | LinkedIn" width="22px" style="margin-right: 10px; background: white; padding: 2px;" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" /></a>
+    <a href="YOUR_INSTAGRAM_PROFILE_URL"><img alt="Miles Advani | Instagram" width="22px" style="margin-right: 10px; background: white; padding: 2px;" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" /></a>
+</p>
 
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />][html]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />][css]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />][javascript]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" />][react]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" />][node]
-[<img align="left" alt="Express" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" />][express]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />][mongodb]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" />][git]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" />][github]
-[<img align="left" alt="VS Code" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" />][vscode]
+<br>
+
+<!-- <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" />
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" />
+<img align="left" alt="Express" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" />
+<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" /><img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" />
+<img align="left" alt="VS Code" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" /> -->
+
+<img alt="HTML5" width="26px" style="margin-right: 10px; background: white; padding: 2px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />
+<img alt="CSS3" width="26px" style="margin-right: 10px; background: white; padding: 2px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />
+<img alt="JavaScript" width="26px" style="margin-right: 10px; background: white; padding: 2px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
+<img alt="React" width="26px" style="margin-right: 10px; background: white; padding: 2px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" />
+<img alt="Node.js" width="26px" style="margin-right: 10px; background: white; padding: 2px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" />
+<img alt="Express" width="26px" style="margin-right: 10px; background: white; padding: 2px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" />
+<img alt="MongoDB" width="26px" style="margin-right: 10px; background: white; padding: 2px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />
+<img alt="Git" width="26px" style="margin-right: 10px; background: white; padding: 2px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" />
+<img alt="GitHub" width="26px" style="margin-right: 10px; background: white; padding: 2px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" />
+<img alt="VS Code" width="26px" style="margin-right: 10px; background: white; padding: 2px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" />
 
 <br><br><br><br><br><br><br><br><br><br>

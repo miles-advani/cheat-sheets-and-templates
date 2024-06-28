@@ -30,6 +30,8 @@ Ubuntu comes with GNOME Terminal by default. For a customizable terminal, you mi
 sudo apt install tilix
 ```
 
+Learn more about Tilix: https://github.com/gnunn1/tilix
+
 ## Cloudflare Warp
 
 Cloudflare Warp is not directly available as an apt package, but you can install it using the following steps:
@@ -39,6 +41,7 @@ sudo apt install cloudflare-warp
 ```
 
 Note: If the above command doesn't work, you might need to follow Cloudflare's official documentation for alternative installation methods.
+https://developers.cloudflare.com/warp-client/get-started/linux/
 
 ## Visual Studio Code
 
@@ -46,17 +49,24 @@ Note: If the above command doesn't work, you might need to follow Cloudflare's o
 sudo snap install --classic code
 ```
 
+Download options and documentation: https://code.visualstudio.com/download
+
+
 ## Git
 
 ```sh
 sudo apt install git
 ```
 
+Git official documentation: https://git-scm.com/downloads
+
 ## Ripgrep
 
 ```sh
 sudo apt install ripgrep
 ```
+
+Official documentation: https://github.com/BurntSushi/ripgrep/blob/master/README.md#installation
 
 ## Git GUI
 
