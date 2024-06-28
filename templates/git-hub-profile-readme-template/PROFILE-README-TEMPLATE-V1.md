@@ -39,13 +39,19 @@ I'm "your name", a "your job" from "your city", "your country".
 - 💬 Ask me about ...
 - ⚡ Fun fact: ...
 
+<br>
+
 <p align="left">
     <a href="YOUR_WEBSITE_URL"><img alt="miles-advani.com" width="35px" style="margin-right: 20px; background: white; padding: 2px;" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
     <a href="https://www.linkedin.com/in/miles-advani/"><img alt="Miles Advani | LinkedIn" width="35px" style="margin-right: 20px; background: white; padding: 2px;" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" /></a>
     <a href="YOUR_INSTAGRAM_PROFILE_URL"><img alt="Miles Advani | Instagram" width="35px" style="margin-right: 20px; background: white; padding: 2px;" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" /></a>
 </p>
 
-<p align="left">
+<br>
+
+<!-- This method to add logos is working fine. But it is more suitable for light backgrounds. -->
+
+<!-- <p align="left">
     <img alt="HTML5" width="35px" style="margin-right: 20px; background: white; padding: 2px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />
     <img alt="CSS3" width="35px" style="margin-right: 20px; background: white; padding: 2px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />
     <img alt="JavaScript" width="35px" style="margin-right: 20px; background: white; padding: 2px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
@@ -55,7 +61,20 @@ I'm "your name", a "your job" from "your city", "your country".
     <img alt="MongoDB" width="35px" style="margin-right: 20px; background: white; padding: 2px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />
     <img alt="Git" width="35px" style="margin-right: 20px; background: white; padding: 2px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" />
     <img alt="GitHub" width="35px" style="margin-right: 20px; background: white; padding: 2px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" />
-    <img alt="VS Code" width="35px" style="margin-right: 20px; background: white; padding: 2px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" />
+    <img alt="VS Code" width="35px" style="margin-right: 20px; background: white; padding: 2px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" /> -->
 </p>
 
+<!-- This method to add logos is working fine. But it is suitable for any background. -->
 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+<br>
