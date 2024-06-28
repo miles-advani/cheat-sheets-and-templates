@@ -73,15 +73,17 @@ I'm "your name", a "your job" from "your city", "your country".
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" /><img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" />
 <img align="left" alt="VS Code" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" /> -->
 
-<img alt="HTML5" width="26px" style="margin-right: 10px; background: white; padding: 2px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />
-<img alt="CSS3" width="26px" style="margin-right: 10px; background: white; padding: 2px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />
-<img alt="JavaScript" width="26px" style="margin-right: 10px; background: white; padding: 2px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
-<img alt="React" width="26px" style="margin-right: 10px; background: white; padding: 2px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" />
-<img alt="Node.js" width="26px" style="margin-right: 10px; background: white; padding: 2px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" />
-<img alt="Express" width="26px" style="margin-right: 10px; background: white; padding: 2px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" />
-<img alt="MongoDB" width="26px" style="margin-right: 10px; background: white; padding: 2px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />
-<img alt="Git" width="26px" style="margin-right: 10px; background: white; padding: 2px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" />
-<img alt="GitHub" width="26px" style="margin-right: 10px; background: white; padding: 2px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" />
-<img alt="VS Code" width="26px" style="margin-right: 10px; background: white; padding: 2px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" />
+<p align="left">
+    <img alt="HTML5" width="26px" style="margin-right: 10px; background: white; padding: 2px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />
+    <img alt="CSS3" width="26px" style="margin-right: 10px; background: white; padding: 2px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />
+    <img alt="JavaScript" width="26px" style="margin-right: 10px; background: white; padding: 2px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
+    <img alt="React" width="26px" style="margin-right: 10px; background: white; padding: 2px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" />
+    <img alt="Node.js" width="26px" style="margin-right: 10px; background: white; padding: 2px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" />
+    <img alt="Express" width="26px" style="margin-right: 10px; background: white; padding: 2px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" />
+    <img alt="MongoDB" width="26px" style="margin-right: 10px; background: white; padding: 2px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />
+    <img alt="Git" width="26px" style="margin-right: 10px; background: white; padding: 2px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" />
+    <img alt="GitHub" width="26px" style="margin-right: 10px; background: white; padding: 2px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" />
+    <img alt="VS Code" width="26px" style="margin-right: 10px; background: white; padding: 2px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" />
+</p>
 
 <br><br><br><br><br><br><br><br><br><br>
