@@ -1,4 +1,11 @@
-<!-- ↓↓↓↓↓ Delete everything between this comment and the NEXT COMMENT ↓↓↓↓↓ -->
+[![Logo](https://raw.githubusercontent.com/miles-advani/dev-launch-kit/164991da3e5bc7a557e8d0861a52088d8894250a/assets/logos/logo-ma-dev.svg)](https://www.miles-advani.com/)
+
+[Back to Top](#readme-template-v1)
+
+<!-- ============================================================================== -->
+<!-- ============================================================================== -->
+<!-- !!! DELETE OR COMMENT OUT EVERYTHING BENEATH THIS COMMENT !!!   ↓↓↓↓↓↓↓↓↓↓↓↓↓↓ -->
+
 <details>
 <summary>How to create a logo for your GitHub repository:</summary>
 <br>
@@ -8,8 +15,3 @@ Logos are a great way to brand your GitHub repository. They can be used to showc
 - With Figma: Visit [Figma](https://www.figma.com/) and create a new file. Design your logo using shapes, text, and colors. Once you are happy with your design, export it as an SVG file (Select your Logo with the mouse, right-click, and select copy as SVG). You can then add the SVG file to your GitHub repository.
 
 </details>
-<!-- ↑↑↑↑↑ Delete everything between this comment and the COMMENT ABOVE ↑↑↑↑↑ -->
-
-[![Logo](https://github.com/miles-advani/cheat-sheets-and-templates/blob/main/assets/logos/ma-dev-logo.svg)](https://www.miles-advani.com/)
-
-[Back to Top](#readme-template-v1)
