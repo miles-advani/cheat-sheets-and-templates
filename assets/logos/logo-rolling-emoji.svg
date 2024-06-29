@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 150">
+  <defs>
+    <!-- Curved path for the emoji to follow -->
+    <path id="curve" d="M10,75 Q150,125 290,75" fill="none" stroke="#ddd" stroke-width="2"/>
+  </defs>
+
+  <!-- Background -->
+  <rect width="100%" height="100%" fill="#f0f0f0"/>
+
+  <!-- Curved path (visible for reference) -->
+  <use href="#curve"/>
+
+  <!-- Emoji -->
+  <g id="emoji">
+    <circle r="20" fill="yellow"/>
+    <circle cx="-7" cy="-2" r="4" fill="black"/>
+    <circle cx="7" cy="-2" r="4" fill="black"/>
+    <path d="M-10,8 Q0,15 10,8" fill="none" stroke="black" stroke-width="2"/>
+  </g>
+
+  <!-- Animation -->
+  <animateMotion href="#emoji" dur="8s" repeatCount="indefinite" keyPoints="0;1;0" keyTimes="0;0.5;1" calcMode="linear">
+    <mpath href="#curve"/>
+  </animateMotion>
+
+  <!-- Offset to position emoji on top of the curve -->
+  <animateTransform href="#emoji" attributeName="transform" type="translate" values="0,-20; 0,-20" dur="8s" repeatCount="indefinite"/>
+
+  <!-- Rotation animation -->
+  <animateTransform href="#emoji" attributeName="transform" type="rotate" values="0 0 0; 720 0 0; 0 0 0" keyTimes="0; 0.5; 1" dur="8s" repeatCount="indefinite" additive="sum"/>
+</svg>
