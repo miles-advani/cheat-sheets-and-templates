@@ -4,9 +4,6 @@
     <path id="curve" d="M10,75 Q150,125 290,75" fill="none" stroke="#ddd" stroke-width="2"/>
   </defs>
 
-  <!-- Background -->
-  <rect width="100%" height="100%" fill="#f0f0f0"/>
-
   <!-- Curved path (visible for reference) -->
   <use href="#curve"/>
 
