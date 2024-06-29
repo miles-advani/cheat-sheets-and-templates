@@ -1,4 +1,4 @@
-[![Logo](https://raw.githubusercontent.com/miles-advani/dev-launch-kit/e73d3bc0330b3e1b5e6714e89a6e5662ed507255/assets/logos/logo-rolling-emoji.svg)](https://www.miles-advani.com/)
+[![Logo](https://raw.githubusercontent.com/miles-advani/dev-launch-kit/ba9ac682e653ef0384ad7b53d587a658f2b9d876/assets/logos/logo-rolling-emoji-v1.svg)](https://www.miles-advani.com/)
 
 # README Template V1
 
