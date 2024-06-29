@@ -15,3 +15,11 @@ Logos are a great way to brand your GitHub repository. They can be used to showc
 - With Figma: Visit [Figma](https://www.figma.com/) and create a new file. Design your logo using shapes, text, and colors. Once you are happy with your design, export it as an SVG file (Select your Logo with the mouse, right-click, and select copy as SVG). You can then add the SVG file to your GitHub repository.
 
 </details>
+
+<details> <summary>How do I dropdown?</summary> <br> This is how you dropdown. <br><br> <pre> &lt;details&gt; &lt;summary&gt;How do I dropdown?&lt;&#47;summary&gt; &lt;br&gt; This is how you dropdown. &lt;&#47;details&gt; </pre>
+
+<br>
+
+<details> <summary>How do I dropdown with a Image?</summary> <br> This is how you dropdown with a Image. <br><br> < img bla bla ... /> </details>
+
+</details>
